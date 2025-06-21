@@ -1,7 +1,4 @@
 # ShopTracker - Simple Inventory Management for Small Retailers
-
-![ShopTracker Logo](docs/images/logo.png)
-
 ## 🎯 Overview
 
 ShopTracker is a mobile application designed to digitize inventory management for small shopkeepers in emerging markets like Nepal. The app provides an intuitive, user-friendly interface for retailers to track their inventory with simple tap-based inputs, while generating valuable market insights for product companies.
